@@ -19,5 +19,5 @@ int sign (int value)
 
 int main()
 {
-    std::cout << sign(0) << std::endl;
+    std::cout << sign(-15) << std::endl;
 }
