@@ -7,7 +7,6 @@ void nominals(int nominal)
         int kwota = 1;
         while (kwota < nominal)
         {
-
             for(int index = 0; index < nominal; index ++)
             {
                 if (index == 1 || index == 2 || index == 5)
